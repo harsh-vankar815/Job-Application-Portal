@@ -61,8 +61,8 @@ This API is designed for job seekers to easily manage job applications. Candidat
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/job-application-portal.git
-cd job-application-portal
+git clone https://github.com/harsh-vankar815/Job-Application-Portal.git
+cd Job-Application-Portal
 ```
 
 2. **Install dependencies**
