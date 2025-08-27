@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "Tesla",
+    "location": "Remote",
+    "description": "Work on modern frontend applications using React.",
+    "skills": ["React", "JavaScript", "CSS"],
+    "salaryRange": "500k-700k"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "Microsoft",
+    "location": "Bangalore, India",
+    "description": "Build scalable APIs using Node.js and Express.",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "salaryRange": "100k-380k"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "company": "Google",
+    "location": "New York, USA",
+    "description": "End-to-end development of web apps.",
+    "skills": ["React", "Node.js", "MongoDB", "GraphQL"],
+    "salaryRange": "300k-500k"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "InsightAI",
+    "location": "London, UK",
+    "description": "Analyze datasets and generate insights.",
+    "skills": ["Python", "SQL", "Tableau"],
+    "salaryRange": "437k-960k"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Infosys",
+    "location": "Remote",
+    "description": "Manage CI/CD pipelines and cloud infrastructure.",
+    "skills": ["AWS", "Docker", "Kubernetes"],
+    "salaryRange": "80k-120k"
+  }
+]
